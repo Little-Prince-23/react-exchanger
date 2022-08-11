@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-exchanger/static/css/main.8e3ab29f.css",
+    "main.js": "/react-exchanger/static/js/main.1c7396f8.js",
+    "static/media/text5.png": "/react-exchanger/static/media/text5.3b0c064ee03084994ccd.png",
+    "index.html": "/react-exchanger/index.html",
+    "main.8e3ab29f.css.map": "/react-exchanger/static/css/main.8e3ab29f.css.map",
+    "main.1c7396f8.js.map": "/react-exchanger/static/js/main.1c7396f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e3ab29f.css",
+    "static/js/main.1c7396f8.js"
+  ]
+}
